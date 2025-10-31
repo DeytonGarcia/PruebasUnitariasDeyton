@@ -1,0 +1,5 @@
+# =============================================================================
+# Variables de entorno requeridas en GitLab:
+# DOCKERHUB_USERNAME: isaelfatamadev
+# DOCKERHUB_TOKEN: (agregar en variables del CI/CD, no aquí)
+# =============================================================================
